@@ -18,7 +18,9 @@ we preformed a new analysis the following metrics after replacing the 9th-grader
 
 ##### The District summary
 
-Original analysis:![image](https://user-images.githubusercontent.com/96032051/150743752-3511790c-228a-4ba9-987c-b2d6d1d05a0b.png)
+Original analysis:![ds](https://user-images.githubusercontent.com/96032051/150750108-dac75087-1c1d-46ce-b3e1-506655d36a87.png)
+
+
 
 Re-analysis:![district summary](https://user-images.githubusercontent.com/96032051/150738026-90a6ffee-3c25-44ee-a8a3-ba30ff66c4bf.png)
 
@@ -107,10 +109,10 @@ Scores by school type:charter schools score by type was changed after the data c
 
 ## Summary:
 
-statement summarizing four changes to the school district analysis after reading and math scores have been replaced (5 pt).
 
-After removing of Thomas High Schools ninth grade math and reading scores and re-Analysing the schools metrics were impacted.
+
+After removing of Thomas High Schools ninth grade math and reading scores and re-Analysing, the schools metrics were impacted.
 The school's ranking changed among the other schools in the district.
-Improvement in Thomas High School overall reading and math scores.
-Change in Medium-sized school pass rates and Charter School pass rates.
-change in  $630-644 school's budget catogery pass rates.
+There is an Improvement in Thomas High School overall reading and math scores.
+we can notice the Change in Medium-sized school pass rates and Charter School pass rates.
+There is also a change in  $630-644 school's budget catogery pass rates.
